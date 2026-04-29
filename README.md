@@ -1,4 +1,4 @@
-# Smart Industrial Manufacturing Dashboard
+# Production Line Dashdoard Monitoring
 
 A high-performance, real-time industrial monitoring system developed to provide comprehensive visibility into manufacturing processes. This project leverages Node-RED Dashboard 2.0 and Vue.js to deliver a responsive and interactive interface for tracking production efficiency and machine health.
 
